@@ -15,6 +15,10 @@ Jekyll requires blog post files to be named according to the following format:
 
 
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1911278234&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/pompalini" title="pompalini" target="_blank" style="color: #cccccc; text-decoration: none;">pompalini</a> · <a href="https://soundcloud.com/pompalini/darkness" title="darkness" target="_blank" style="color: #cccccc; text-decoration: none;">darkness</a></div>
+
+
+
 Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 Jekyll also offers powerful support for code snippets:
