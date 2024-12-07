@@ -11,8 +11,6 @@ Jekyll requires blog post files to be named according to the following format:
 `YEAR-MONTH-DAY-title.MARKUP`
 
 
-<iframe width="852" height="480" src="https://www.xtits.xxx/embed/13035" frameborder="0" allowfullscreen></iframe>
-
 &nbsp;
 &nbsp;
 
